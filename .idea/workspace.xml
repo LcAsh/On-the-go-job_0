@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4bf3200d-2593-48bf-b98f-4c6e24b5e40c" />
+  </component>
   <component name="ProjectId" id="1j5t4jwmrWXiqBhBUsLMCN90Krw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.Student">
     <configuration name="Graduate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -71,6 +75,7 @@
       <updated>1603105590345</updated>
       <workItem from="1603105594366" duration="5626000" />
       <workItem from="1603422261322" duration="12000" />
+      <workItem from="1604644857310" duration="347000" />
     </task>
     <servers />
   </component>
@@ -82,10 +87,14 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="1626" y="321" key="#com.intellij.ide.util.MemberChooser/0.0.2318.1265@0.0.2318.1265" timestamp="1603106700244" />
-    <state x="1601" y="392" key="FileChooserDialogImpl" timestamp="1603105623107">
+    <state x="1601" y="392" key="FileChooserDialogImpl" timestamp="1604645089660">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1601" y="392" key="FileChooserDialogImpl/0.0.2318.1265@0.0.2318.1265" timestamp="1603105623107" />
+    <state x="1601" y="392" key="FileChooserDialogImpl/0.0.2318.1265@0.0.2318.1265" timestamp="1604645089660" />
+    <state x="408" y="533" width="368" height="206" key="Github.CreateGistDialog" timestamp="1604645194204">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="408" y="533" width="368" height="206" key="Github.CreateGistDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1604645194204" />
     <state width="952" height="428" key="GridCell.Tab.0.bottom" timestamp="1603113177733">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -118,10 +127,14 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="952" height="428" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1603113177733" />
-    <state x="1508" y="457" key="com.intellij.ide.util.TipDialog" timestamp="1603422260835">
+    <state x="82" y="279" key="SettingsEditor" timestamp="1604645036315">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1508" y="457" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1603422260835" />
+    <state x="82" y="279" key="SettingsEditor/0.0.2318.1265@0.0.2318.1265" timestamp="1604645036315" />
+    <state x="1508" y="457" key="com.intellij.ide.util.TipDialog" timestamp="1604644858080">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1508" y="457" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1604644858080" />
     <state x="1483" y="287" width="672" height="678" key="search.everywhere.popup" timestamp="1603109226084">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
